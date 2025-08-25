@@ -6,7 +6,7 @@ A simple Resume Web Page built using HTML and CSS. This project showcases person
 🌐 Live Demo
 
 Click here to view the live site
- (Add your deployment link here)
+ (https://resume-template-tau.vercel.app/)
 
 📋 Features
 
